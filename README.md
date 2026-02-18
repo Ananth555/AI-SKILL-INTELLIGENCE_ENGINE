@@ -143,7 +143,7 @@ GitHub + Streamlit Cloud Deployment
 
 🌐 Live Demo
 
-👉 [Add your Streamlit URL here]
+👉http://localhost:8501/
 
 📈 Key Insights Generated
 
